@@ -1,8 +1,9 @@
+本程序 fork自 [pdd-coupon](https://github.com/sgxiang/pdd-coupon)
 # pdd-coupon
 
-### 券多省钱通 —— 拼多多领券小程序（多多金宝）
+### 券多省钱通 —— 拼多多领券小程序（多多进宝）
 
-![小程序码](./2.png)
+![小程序码](./gh_dde6ff1903d4_258.jpg)
 
 ![截图](./1.png)
 
@@ -28,4 +29,3 @@
 
 <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-1.png" width="200"/> <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-2.png" width="200"/> <img src="https://raw.githubusercontent.com/sgxiang/pdd-coupon/main/xcx-3.png" width="200"/>
 
-如有疑问，请提issue或微信联系：sgxiang
